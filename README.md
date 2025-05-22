@@ -1,6 +1,6 @@
 ## Hi, I'm lxvry
 
-* I'm a cybersecurity engineering student but I have several interests, for example robotics, electronics and even biotechnology                                                                                                                                            !                                                                                                                                    [bailando](https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif)   
+* I'm a cybersecurity engineering student but I have several interests, for example robotics, electronics and even biotechnology                                                                                                                                            !                                                                                    [bailando](https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif)   
 * Focus: Red Team
 * Programming skills: `bash`, `python`,`C`,`arduino`
 
